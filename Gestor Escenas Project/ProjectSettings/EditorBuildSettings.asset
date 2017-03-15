@@ -11,3 +11,5 @@ EditorBuildSettings:
     path: Assets/Gestor Escenas/Scenes/scene1.unity
   - enabled: 1
     path: Assets/Gestor Escenas/Scenes/scene2.unity
+  - enabled: 1
+    path: Assets/Gestor Escenas/Scenes/scene3.unity
