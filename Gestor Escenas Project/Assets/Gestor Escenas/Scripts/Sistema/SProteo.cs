@@ -9,6 +9,9 @@
 
 #region Librerias
 using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 #endregion
 
 namespace MoonPincho
