@@ -10,6 +10,15 @@ Gestor de escenas con funcionalidad Sync para Unity3D.
 
 ![001][1]
 
+---
+
+## Caracteristicas
+
++ Cargar escena comun
++ Cargar escena sync
++ Descargar escena
++ Cargar escena mediante editor
+
 ## Problemas
 
 Si no tienes NGUI, tendras que hacer la compatibilidad a UGUI, solo tienes que borrar **data.cs** y cambiar el slider de NGUI por uno de UGUI.
