@@ -9,7 +9,7 @@
 
 #region Librerias
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using UnityEditor.SceneManagement;
 using UnityEditor;
 #endregion
 
@@ -25,7 +25,25 @@ namespace MoonPincho
 		[MenuItem("Moon Pincho/Scenes/Main",false,1)]
 		public static void InitSceneMain()
 		{
-			SceneManager.LoadScene("main");
+			EditorSceneManager.OpenScene("Assets/Gestor Escenas/Scenes/main.unity",OpenSceneMode.Single);
+		}
+
+		[MenuItem("Moon Pincho/Scenes/Scene 1", false, 2)]
+		public static void InitScene1()
+		{
+			EditorSceneManager.OpenScene("Assets/Gestor Escenas/Scenes/scene1.unity", OpenSceneMode.Single);
+		}
+
+		[MenuItem("Moon Pincho/Scenes/Scene 2", false, 3)]
+		public static void InitScene2()
+		{
+			EditorSceneManager.OpenScene("Assets/Gestor Escenas/Scenes/scene2.unity", OpenSceneMode.Single);
+		}
+
+		[MenuItem("Moon Pincho/Scenes/Scene 3", false, 4)]
+		public static void InitScene3()
+		{
+			EditorSceneManager.OpenScene("Assets/Gestor Escenas/Scenes/scene3.unity", OpenSceneMode.Single);
 		}
 		#endregion
 	}
