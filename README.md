@@ -1,7 +1,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/MoonAntonio/GestorEscenasUnity.svg)](https://github.com/MoonAntonio/GestorEscenasUnity/issues)
 [![UnityVersion](https://img.shields.io/badge/Unity-5.5.2p4-orange.svg)](https://unity3d.com/es)
-[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MOON-TYPE/MIcaros)
+[![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/GestorEscenasUnity)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/GestorEscenasUnity/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/GestorEscenasUnity.svg)](https://github.com/MoonAntonio/GestorEscenasUnity/network)
+[![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/GestorEscenasUnity.svg)](https://github.com/MoonAntonio/GestorEscenasUnity/stargazers)
 
 # GestorEscenasUnity
 Gestor de escenas con funcionalidad Sync para Unity3D.
